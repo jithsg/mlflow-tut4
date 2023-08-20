@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow-tut4/mlruns/968134438006147379/8721fd5ca11145af8dd78d276428fc54/artifacts
+end_time: 1692545236383
+entry_point_name: ''
+experiment_id: '968134438006147379'
+lifecycle_stage: active
+run_id: 8721fd5ca11145af8dd78d276428fc54
+run_name: carefree-kit-86
+run_uuid: 8721fd5ca11145af8dd78d276428fc54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692545236350
+status: 3
+tags: []
+user_id: User

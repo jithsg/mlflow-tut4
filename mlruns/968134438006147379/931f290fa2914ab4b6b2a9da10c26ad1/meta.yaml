@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow-tut4/mlruns/968134438006147379/931f290fa2914ab4b6b2a9da10c26ad1/artifacts
+end_time: 1692546262541
+entry_point_name: ''
+experiment_id: '968134438006147379'
+lifecycle_stage: active
+run_id: 931f290fa2914ab4b6b2a9da10c26ad1
+run_name: luminous-crab-502
+run_uuid: 931f290fa2914ab4b6b2a9da10c26ad1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692546259431
+status: 3
+tags: []
+user_id: User

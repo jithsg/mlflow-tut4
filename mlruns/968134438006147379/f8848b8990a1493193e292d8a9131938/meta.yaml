@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow-tut4/mlruns/968134438006147379/f8848b8990a1493193e292d8a9131938/artifacts
+end_time: 1692545771970
+entry_point_name: ''
+experiment_id: '968134438006147379'
+lifecycle_stage: active
+run_id: f8848b8990a1493193e292d8a9131938
+run_name: intrigued-eel-305
+run_uuid: f8848b8990a1493193e292d8a9131938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692545768914
+status: 3
+tags: []
+user_id: User

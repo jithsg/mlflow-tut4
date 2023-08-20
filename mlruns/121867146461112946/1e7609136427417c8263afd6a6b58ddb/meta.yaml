@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow-tut4/mlruns/121867146461112946/1e7609136427417c8263afd6a6b58ddb/artifacts
+end_time: 1692541819814
+entry_point_name: ''
+experiment_id: '121867146461112946'
+lifecycle_stage: active
+run_id: 1e7609136427417c8263afd6a6b58ddb
+run_name: lyrical-flea-704
+run_uuid: 1e7609136427417c8263afd6a6b58ddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692541817039
+status: 3
+tags: []
+user_id: User

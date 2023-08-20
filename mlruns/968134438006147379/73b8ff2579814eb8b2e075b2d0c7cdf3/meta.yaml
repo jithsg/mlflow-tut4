@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow-tut4/mlruns/968134438006147379/73b8ff2579814eb8b2e075b2d0c7cdf3/artifacts
+end_time: 1692545236346
+entry_point_name: ''
+experiment_id: '968134438006147379'
+lifecycle_stage: active
+run_id: 73b8ff2579814eb8b2e075b2d0c7cdf3
+run_name: merciful-moose-303
+run_uuid: 73b8ff2579814eb8b2e075b2d0c7cdf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692545233193
+status: 3
+tags: []
+user_id: User

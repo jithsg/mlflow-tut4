@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow-tut4/mlruns/968134438006147379/15d967181e5645198a4a9c8fca6035a9/artifacts
+end_time: 1692545015889
+entry_point_name: ''
+experiment_id: '968134438006147379'
+lifecycle_stage: active
+run_id: 15d967181e5645198a4a9c8fca6035a9
+run_name: selective-roo-234
+run_uuid: 15d967181e5645198a4a9c8fca6035a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692545012597
+status: 4
+tags: []
+user_id: User

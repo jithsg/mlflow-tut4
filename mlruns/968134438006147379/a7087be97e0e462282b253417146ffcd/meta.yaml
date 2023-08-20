@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow-tut4/mlruns/968134438006147379/a7087be97e0e462282b253417146ffcd/artifacts
+end_time: 1692546780251
+entry_point_name: ''
+experiment_id: '968134438006147379'
+lifecycle_stage: active
+run_id: a7087be97e0e462282b253417146ffcd
+run_name: agreeable-cub-405
+run_uuid: a7087be97e0e462282b253417146ffcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692546775549
+status: 3
+tags: []
+user_id: User

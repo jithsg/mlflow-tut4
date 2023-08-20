@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow-tut4/mlruns/968134438006147379/caff87731b2c49a3be2cb3d664ee1eb3/artifacts
+end_time: 1692546262595
+entry_point_name: ''
+experiment_id: '968134438006147379'
+lifecycle_stage: active
+run_id: caff87731b2c49a3be2cb3d664ee1eb3
+run_name: classy-doe-80
+run_uuid: caff87731b2c49a3be2cb3d664ee1eb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692546262550
+status: 3
+tags: []
+user_id: User

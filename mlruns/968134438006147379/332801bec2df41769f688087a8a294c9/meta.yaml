@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow-tut4/mlruns/968134438006147379/332801bec2df41769f688087a8a294c9/artifacts
+end_time: 1692545712547
+entry_point_name: ''
+experiment_id: '968134438006147379'
+lifecycle_stage: active
+run_id: 332801bec2df41769f688087a8a294c9
+run_name: auspicious-crane-178
+run_uuid: 332801bec2df41769f688087a8a294c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692545712457
+status: 3
+tags: []
+user_id: User

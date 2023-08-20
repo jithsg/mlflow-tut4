@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow-tut4/mlruns/968134438006147379/eec5a36c17bd4d939fe7eed9fde9f31f/artifacts
+end_time: 1692546059289
+entry_point_name: ''
+experiment_id: '968134438006147379'
+lifecycle_stage: active
+run_id: eec5a36c17bd4d939fe7eed9fde9f31f
+run_name: awesome-lark-489
+run_uuid: eec5a36c17bd4d939fe7eed9fde9f31f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692546059205
+status: 3
+tags: []
+user_id: User

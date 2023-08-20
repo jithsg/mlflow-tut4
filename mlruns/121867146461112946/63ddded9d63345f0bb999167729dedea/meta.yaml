@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow-tut4/mlruns/121867146461112946/63ddded9d63345f0bb999167729dedea/artifacts
+end_time: 1692541755611
+entry_point_name: ''
+experiment_id: '121867146461112946'
+lifecycle_stage: active
+run_id: 63ddded9d63345f0bb999167729dedea
+run_name: defiant-squid-293
+run_uuid: 63ddded9d63345f0bb999167729dedea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692541752556
+status: 3
+tags: []
+user_id: User
